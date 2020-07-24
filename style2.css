@@ -1,0 +1,21 @@
+h1{
+  color: black;
+  background: grey;
+  style: strong;
+  font-size: 30px;
+}
+h2{
+  color: mediumblue;
+  style: strong;
+  font-size: 30px; 
+}
+u{
+  color: black;
+  font-size: 25px;
+  display: inline;
+}
+h3{
+color: black;
+style: strong;
+font-size: 30px;
+}
